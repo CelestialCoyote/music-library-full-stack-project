@@ -73,7 +73,7 @@ function App() {
 
         <div className='App'>
 
-            <div id='main-container'>
+            <div className='main-container'>
                 <div style={{ width: '100%' }}>
                     <TitleBar />
                 </div>
