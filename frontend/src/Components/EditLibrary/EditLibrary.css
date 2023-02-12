@@ -1,0 +1,30 @@
+#add-song-form {
+    border: 1px solid yellow;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2.0em;
+    margin-top: 1.0em;
+    padding: 1.0em;
+    width: 80%;
+}
+
+.add-song-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 1.0em;
+    margin-top: 1.0em;
+}
+
+.add-song-input {
+    background-color: yellow;
+    width: 30%;
+}
+
+#add-song-button {
+    background-color: green;
+    border-radius: 0.5em;
+    color: yellow;
+    font-weight: bold;
+    width: 30%;
+}

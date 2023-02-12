@@ -1,0 +1,25 @@
+#search-bar {
+    border: 2px solid black;
+    border-radius: 0.5em;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.0em;
+    margin-top: 1.0em;
+    padding: 0.5em;
+    width: 80%;
+}
+
+#search-label {
+    background-color: yellow;
+    color: red;
+    font-weight: bold;
+    padding-top: 0.15em;
+    width: 6.0em;
+}
+
+#search-input {
+    background-color: yellow;
+    margin-left: 1.0em;
+    margin-right: 1.0em;
+    width: 100%;
+}

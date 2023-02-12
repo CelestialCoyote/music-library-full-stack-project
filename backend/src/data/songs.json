@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "title": "Drive My Car",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 2,
+    "title": "Norwegian Wood",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 3,
+    "title": "You Won't See Me",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 4,
+    "title": "Nowhere Man",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 5,
+    "title": "Think For Yourself",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 6,
+    "title": "The Word",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 7,
+    "title": "Michelle",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 8,
+    "title": "What Goes On",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 9,
+    "title": "Girl",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 10,
+    "title": "I'm Looking Through You",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 11,
+    "title": "In My Life",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 12,
+    "title": "Wait",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 13,
+    "title": "If I Needed Someone",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 14,
+    "title": "Run For Your Life",
+    "album": "Rubber Soul",
+    "artist": "The Beatles",
+    "genre": "Folk Rock",
+    "releaseDate": "12/03/1965"
+  },
+  {
+    "id": 15,
+    "title": "The District Sleeps Alone Tonight",
+    "album": "Give Up",
+    "artist": "The Postal Service",
+    "genre": "Alternative Indie",
+    "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 16,
+    "title": "Such Great Heights",
+    "album": "Give Up",
+    "artist": "The Postal Service",
+    "genre": "Alternative Indie",
+    "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 17,
+    "title": "Sleeping In",
+    "album": "Give Up",
+    "artist": "The Postal Service",
+    "genre": "Alternative Indie",
+    "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 18,
+    "title": "Nothing Better",
+    "album": "Give Up",
+    "artist": "The Postal Service",
+    "genre": "Alternative Indie",
+    "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 19,
+    "title": "Recycled Air",
+    "album": "Give Up",
+    "artist": "The Postal Service",
+    "genre": "Alternative Indie",
+    "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 20,
+    "title": "Clark Gable",
+    "album": "Give Up",
+    "artist": "The Postal Service",
+    "genre": "Alternative Indie",
+    "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 21,
+    "title": "We Will Become Silhouettes",
+    "album": "Give Up",
+    "artist": "The Postal Service",
+    "genre": "Alternative Indie",
+    "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 22,
+    "title": "This Place Is a Prison",
+    "album": "Give Up",
+    "artist": "The Postal Service",
+    "genre": "Alternative Indie",
+    "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 23,
+    "title": "Brand New Colony",
+    "album": "Give Up",
+    "artist": "The Postal Service",
+    "genre": "Alternative Indie",
+    "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 24,
+    "title": "Natural Anthem",
+    "album": "Give Up",
+    "artist": "The Postal Service",
+    "genre": "Alternative Indie",
+    "releaseDate": "02/18/2003"
+  },
+  {
+    "id": 25,
+    "title": "Good Times Bad Times",
+    "album": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1/12/1969"
+  },
+  {
+    "id": 26,
+    "title": "Babe I'm Gonna Leave You",
+    "album": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1/12/1969"
+  },
+  {
+    "id": 27,
+    "title": "You Shook Me",
+    "album": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1/12/1969"
+  },
+  {
+    "id": 28,
+    "title": "Dazed and Confused",
+    "album": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1/12/1969"
+  },
+  {
+    "id": 29,
+    "title": "You're Time Is Gonna Come",
+    "album": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1/12/1969"
+  },
+  {
+    "id": 30,
+    "title": "Black Mountain Side",
+    "album": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1/12/1969"
+  },
+  {
+    "id": 31,
+    "title": "Communication Breakdown",
+    "album": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1/12/1969"
+  },
+  {
+    "id": 32,
+    "title": "I Can't Quit You Baby",
+    "album": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1/12/1969"
+  },
+  {
+    "id": 33,
+    "title": "How Many More Times",
+    "album": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1/12/1969"
+  },
+  {
+    "id": 34,
+    "title": "Whole Lotta Love",
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "10/22/1969"
+  },
+  {
+    "id": 35,
+    "title": "What Is and What Should Never Be",
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "10/22/1969"
+  },
+  {
+    "id": 36,
+    "title": "The Lemon Song",
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "10/22/1969"
+  },
+  {
+    "id": 37,
+    "title": "Thank You",
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "10/22/1969"
+  },
+  {
+    "id": 38,
+    "title": "Heartbreaker",
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "10/22/1969"
+  },
+  {
+    "id": 39,
+    "title": "Living Loving Maid (She's Just a Woman)",
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "10/22/1969"
+  },
+  {
+    "id": 40,
+    "title": "Ramble On",
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "10/22/1969"
+  },
+  {
+    "id": 41,
+    "title": "Moby Dick",
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "10/22/1969"
+  },
+  {
+    "id": 42,
+    "title": "Bring It On Home",
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "10/22/1969"
+  },
+  {
+    "id": 43,
+    "title": "Immegrant Song",
+    "album": "Led Zeppelin III",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1970-10-05"
+  },
+  {
+    "id": 44,
+    "title": "Friends",
+    "album": "Led Zeppelin III",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1970-10-05"
+  },
+  {
+    "id": 45,
+    "title": "Celebration Day",
+    "album": "Led Zeppelin III",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1970-10-05"
+  },
+  {
+    "id": 46,
+    "title": "Since I've Been Loving You",
+    "album": "Led Zeppelin III",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1970-10-05"
+  },
+  {
+    "id": 47,
+    "title": "Out On The Tiles",
+    "album": "Led Zeppelin III",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1970-10-05"
+  },
+  {
+    "id": 48,
+    "title": "Gallows Pole",
+    "album": "Led Zeppelin III",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1970-10-05"
+  },
+  {
+    "id": 49,
+    "title": "Tangerine",
+    "album": "Led Zeppelin III",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1970-10-05"
+  },
+  {
+    "id": 50,
+    "title": "That's The Way",
+    "album": "Led Zeppelin III",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1970-10-05"
+  },
+  {
+    "id": 51,
+    "title": "Bron-Y-Aur Stomp",
+    "album": "Led Zeppelin III",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1970-10-05"
+  },
+  {
+    "id": 52,
+    "title": "Hat's Off To (Roy) Harper",
+    "album": "Led Zeppelin III",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "releaseDate": "1970-10-05"
+  }
+]
