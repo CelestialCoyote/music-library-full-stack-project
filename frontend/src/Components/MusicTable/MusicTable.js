@@ -4,8 +4,7 @@ import './MusicTable.css';
 const MusicTable = (props) => {
 
     return (
-
-        <table className='styled-table'>
+        <table className='music-table'>
             <thead>
                 <tr>
                     <th>#</th>
@@ -36,7 +35,6 @@ const MusicTable = (props) => {
                 })}
             </tbody>
         </table>
-
     );
 };
 

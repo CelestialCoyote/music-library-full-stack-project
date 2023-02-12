@@ -1,24 +1,26 @@
-.styled-table {
+.music-table {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 0.8em;
-    width: 80%;
+    height: 100%;
+    overflow: hidden;
+    width: 100%;
 }
 
-.styled-table thead tr {
+.music-table thead tr {
     background-color: yellow;
     color: purple;
     text-align: center;
 }
 
-.styled-table tbody tr {
+.music-table tbody tr {
     border-bottom: 2px solid green;
 }
 
-.styled-table tbody tr:nth-of-type(even) {
+.music-table tbody tr:nth-of-type(even) {
     background-color: orange;
 }
 
-.styled-table tbody tr:nth-of-type(odd) {
+.music-table tbody tr:nth-of-type(odd) {
     background-color: lightgreen;
 }
 
